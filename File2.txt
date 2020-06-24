@@ -1,8 +1,13 @@
 some more data
 
 Change INC0001
+
 +++++++++++++++++++++++++++++
 Change to master cause conflict
 ++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++
+
+
+Change bug2, updated to fix conflict
+
