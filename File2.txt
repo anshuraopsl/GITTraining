@@ -1,4 +1,6 @@
 *
+.
+CR2: changes
 some more data
 
 Change INC0001
@@ -13,7 +15,12 @@ Change to master cause conflict
 Change bug2, updated to fix conflict
 More text
 
+HEAD
 Rebase conflict1eeee
 eeeeeeeee
 eeeeeeeee
 eeee
+Rebase conflict1
+Rebase conflict1
+Rebase conflict1
+
