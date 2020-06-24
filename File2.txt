@@ -10,4 +10,4 @@ Change to master cause conflict
 
 
 Change bug2, updated to fix conflict
-
+More text
