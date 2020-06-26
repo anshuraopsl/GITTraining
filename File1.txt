@@ -5,3 +5,5 @@ more files
 First push to Remote
 
 Remote change<made by team>
+
+-Change added remotely to test conflict
